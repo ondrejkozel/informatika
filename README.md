@@ -17,3 +17,6 @@ Ke každému úkolu přikládám i odkaz na online kompilátor.
 3. Opakování binárního vyhledávání
   * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/main/src/main/cpp/binary%20search%20opakov%C3%A1n%C3%AD/BS.cpp)
   * [online kompilátor](https://onlinegdb.com/2aG1cXKfW)
+4. Implementace řazení vkládáním
+  * [zdrojový kód](https://github.com/ondrejkozel/informatika/tree/main/src/main/java/cz/okozel/insertionSort)
+  * [online kompilátor](https://onlinegdb.com/DeTDgjNWn)
