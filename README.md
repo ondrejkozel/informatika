@@ -14,3 +14,6 @@ Ke každému úkolu přikládám i odkaz na online kompilátor.
 2. Implementace řazení výběrem
    * [zdrojový kód](https://github.com/ondrejkozel/informatika/tree/master/src/main/java/cz/okozel/selectionSort)
    * [online kompilátor](https://www.onlinegdb.com/jAmy0aoKJ)
+3. Opakování binárního vyhledávání
+    * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/main/src/main/cpp/binary%20search%20opakov%C3%A1n%C3%AD/BS.cpp)
+    * [online kompilátor](https://onlinegdb.com/2aG1cXKfW)
