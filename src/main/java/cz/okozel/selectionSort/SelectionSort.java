@@ -1,16 +1,19 @@
 package cz.okozel.selectionSort;
 
+import cz.okozel.Sort;
+
 /**
  * Jednoduchá implementace Selection sort.
  *
  * @author ondra
  */
-public class SelectionSort {
+public class SelectionSort implements Sort {
 
     /**
      * Seřadí pole čísel s časovou složitostí n<sup>2</sup>.
      * @param pole pole k seřazení
      */
+    @Override
     public void serad(int[] pole) {
         for (int i = 0; i < pole.length - 1; i++) prohod(pole, i, najdiIndexMin(pole, i));
     }
