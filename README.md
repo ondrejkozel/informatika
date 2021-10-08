@@ -20,3 +20,6 @@ Ke každému úkolu přikládám i odkaz na online kompilátor.
 4. Implementace řazení vkládáním
    * [zdrojový kód](https://github.com/ondrejkozel/informatika/tree/main/src/main/java/cz/okozel/insertionSort)
    * [online kompilátor](https://onlinegdb.com/DeTDgjNWn)
+5. Implementace bublinkového řazení
+   * [zdrojový kód](https://github.com/ondrejkozel/informatika/tree/main/src/main/java/cz/okozel/bubbleSort)
+   * [online kompilátor](https://onlinegdb.com/RIpj8uM_q)
