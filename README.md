@@ -23,3 +23,6 @@ Ke každému úkolu přikládám i odkaz na online kompilátor.
 5. Implementace bublinkového řazení
    * [zdrojový kód](https://github.com/ondrejkozel/informatika/tree/main/src/main/java/cz/okozel/bubbleSort)
    * [online kompilátor](https://onlinegdb.com/RIpj8uM_q)
+6. Opakování binárního vyhledávání vol. 2
+   * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/main/src/main/cpp/binary%20search%20opakov%C3%A1n%C3%AD%20vol.2/BS2.cpp)
+   * [online kompilátor](https://onlinegdb.com/yvUrV2KBl)
