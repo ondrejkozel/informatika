@@ -29,3 +29,6 @@ Ke každému úkolu přikládám i odkaz na online kompilátor.
 7. Ověření palindromu pomocí rekurze
    * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/main/src/main/java/cz/okozel/overeniPalindromuRekurzi/Main.java)
    * [testy](https://github.com/ondrejkozel/informatika/blob/main/src/test/java/cz/okozel/overeniPalindromuRekurzi/MainTest.java)
+8. Umocňování rekurzí
+   * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/main/src/main/java/cz/okozel/umocnovaniRekurzi/Main.java)
+   * [testy](https://github.com/ondrejkozel/informatika/blob/main/src/test/java/cz/okozel/umocnovaniRekurzi/MainTest.java)
