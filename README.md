@@ -26,3 +26,6 @@ Ke každému úkolu přikládám i odkaz na online kompilátor.
 6. Opakování binárního vyhledávání vol. 2
    * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/main/src/main/cpp/binary%20search%20opakov%C3%A1n%C3%AD%20vol.%202/BS2.cpp)
    * [online kompilátor](https://onlinegdb.com/yvUrV2KBl)
+7. Ověření palindromu pomocí rekurze
+   * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/main/src/main/java/cz/okozel/overeniPalindromuRekurzi/Main.java)
+   * [testy](https://github.com/ondrejkozel/informatika/blob/main/src/test/java/cz/okozel/overeniPalindromuRekurzi/MainTest.java)
