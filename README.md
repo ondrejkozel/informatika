@@ -32,3 +32,6 @@ Ke každému úkolu přikládám i odkaz na online kompilátor.
 8. Umocňování rekurzí
    * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/main/src/main/java/cz/okozel/umocnovaniRekurzi/Main.java)
    * [testy](https://github.com/ondrejkozel/informatika/blob/main/src/test/java/cz/okozel/umocnovaniRekurzi/MainTest.java)
+9. Struktury
+   * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/4e7efb6d1b06ca364aee3bd654bfa7a863363c8e/src/main/cpp/struktury/struktury.cpp)
+   * [online kompilátor](https://onlinegdb.com/Yj3zKitjW) 
