@@ -34,4 +34,7 @@ Ke každému úkolu přikládám i odkaz na online kompilátor.
    * [testy](https://github.com/ondrejkozel/informatika/blob/main/src/test/java/cz/okozel/umocnovaniRekurzi/MainTest.java)
 9. Struktury
    * [zdrojový kód](https://github.com/ondrejkozel/informatika/blob/4e7efb6d1b06ca364aee3bd654bfa7a863363c8e/src/main/cpp/struktury/struktury.cpp)
-   * [online kompilátor](https://onlinegdb.com/Yj3zKitjW) 
+   * [online kompilátor](https://onlinegdb.com/Yj3zKitjW)
+1. Management zaměstnanců
+   * [zdrojový kód](https://github.com/ondrejkozel/informatika/tree/main/src/main/java/cz/okozel/zamestnanci)
+   * [online kompilátor](https://onlinegdb.com/Yh4BFc2rZ)
